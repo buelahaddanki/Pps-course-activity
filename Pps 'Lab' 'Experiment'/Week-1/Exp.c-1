@@ -1,0 +1,11 @@
+#include<stdio.h>
+void main()
+{
+    int a;
+    int b;
+    int s;
+    a=5;
+    b=3;
+    s=a+b;
+       printf("\n the addition of %d & %d is %d",a,b,s);
+}
